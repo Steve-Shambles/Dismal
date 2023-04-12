@@ -46,7 +46,9 @@ Right-clicking on an Email address in the listbox will offer you a variety of se
 'Delete all addresses'
 'Open all addresses in a text file'
 'Visit mailinator.com'
-'Help'
+
+![Alt Text](https://github.com/Steve-Shambles/Dismal/blob/main/screenshots/dismal_screenshot_2.png)
+
 
 Please note that your addresses can be accessed by anyone. 
 
@@ -73,6 +75,8 @@ It goes without saying, but I’m going to say it anyway, that you should only u
 system is to avoid Spam and help keep your privacy.
 
 It would therefore make sense not to use a simple word, like ‘hunter’ for example, there is bound to be someone else  using a common word like that, so use something  not so guessable like, ‘x77freiov8’ and most likely you will be the only one using that address."
+
+![Alt Text](https://github.com/Steve-Shambles/Dismal/blob/main/screenshots/dismal_screenshot_3.png)
 
 
 Steve Shambles 
