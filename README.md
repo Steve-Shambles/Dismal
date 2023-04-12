@@ -41,10 +41,15 @@ Your new E-mail address will now appear in Dismal's list box.
 Right-clicking on an Email address in the listbox will offer you a variety of self-explanatory options.
 
 'Open inbox'
+
 'Copy address to clipboard'
+
 'Delete this address'
+
 'Delete all addresses'
+
 'Open all addresses in a text file'
+
 'Visit mailinator.com'
 
 ![Alt Text](https://github.com/Steve-Shambles/Dismal/blob/main/screenshots/dismal_screenshot_2.png)
