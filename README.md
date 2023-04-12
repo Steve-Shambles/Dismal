@@ -14,6 +14,8 @@ This software is in no way associated with
 mailinator.com. The point of this app is 
 mostly a personal programming exercise.
 
+![Alt Text](https://github.com/Steve-Shambles/Dismal/blob/main/screenshots/dismal_screenshot_1.png)
+
 Introduction:
 
 The point of a disposable email address is to use it when you are forced to sign up at rubbish websites to get to their contents, or whatever.
